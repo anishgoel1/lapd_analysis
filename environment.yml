@@ -1,0 +1,17 @@
+name: crime_analysis
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - numpy=1.24.3
+  - pandas
+  - spacy
+  - scikit-learn
+  - matplotlib
+  - contextily
+  - geopandas
+  - shapely
+  - branca
+  - plotly
+  - python-kaleido
